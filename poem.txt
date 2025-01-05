@@ -2,9 +2,12 @@ I have created this file to learn github from "The coding Train" in youtube
 they teaches how to create file in github and how github is different than git.
 GIT
 //
-git is a version control and it can use in the window and it different than github 
+git is a version control and it can use in the window and it is different from github.
+
+
 
 GITHUB
 //
 github is a software and works with git, we can deploy and create a project called Repository in github website it is hosted online so anyone and anywhere in the world can be accesss.
 and this allows us to control over our changes happening in the file
+
