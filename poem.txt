@@ -3,7 +3,7 @@ they teaches how to create file in github and how github is different than git.
 GIT
 //
 git is a version control and it can use in the window and it is different from github.
-
+before 2018 no one owns git and the guy who build linux have biult the git and other guys, and basically after 2018 officially announced that Microsoft owns it and this open source.
 
 
 GITHUB
